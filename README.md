@@ -1,6 +1,6 @@
 # <p align = 'center'> Predicting and Analysing Customer's Payment Behaviour </p>
 
-## PROBLEM DEFINATION
+## PROBLEM DEFINITION
 
 In this project we have used various machine learning methodologies to predict the borrower's default status using borrower's information and payment behaviors. Used Clustering analysis to segment the portfolio and check if model prediction accuracy improves or not.
 
